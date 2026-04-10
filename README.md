@@ -1,4 +1,7 @@
 # EtymoLink: A Structured English Etymology Dataset
+
+> **This fork contains a cleaned version of the dataset.** The original data had ~19% duplicate rows, HTML scraping artifacts, graph cycles, and 360 undefined language codes. See [CLEANING.md](CLEANING.md) for a detailed explanation of all corrections. Cleaned files are in the `cleaned/` directory.
+
 This is the dataset for the paper "EtymoLink: A Structured English Etymology Dataset" ([ACL Anthology](https://aclanthology.org/2024.lchange-1.12/)).
 ## Files
 

@@ -1,0 +1,311 @@
+Code,Language
+A,Arabic
+AF,Anglo-French
+AL,Anglo-Latin
+ASpan,American Spanish
+Aben,Abenaki
+Adriatic,Adriatic (dialectal)
+Adut,Afrikaans Dutch
+Ae,Aeolic Greek
+Ael,Aleut (Aeolian)
+Aeolian,Aeolian Greek
+Afr,African
+Afrika,Afrikaans
+AfroCuban,Afro-Cuban
+Ahapaskan,Athapaskan
+Akkadian,Akkadian
+Al,Alemannic
+Ala,Aleut
+Algo,Algonquian
+Alutiq,Alutiq
+Amboyna,Ambonese
+Amharic,Amharic
+An,Anglo-Indian
+Anglo,Anglo-Indian
+Apaca,Apache
+Ar,Greek (archaic)
+Ara,Araucanian
+Aram,Aramaic
+Araw,Arawakan
+Argentine,Argentine Spanish
+Ariz,Arizona Apache
+Armenia,Armenian
+Ash,Ashkenazi Hebrew
+Assain,Alsatian German
+Assyrian,Assyrian
+Attic,Attic Greek
+Au,Australian Aboriginal
+Austra,Austrasian
+Avest,Avestan
+Aymar,Aymara
+Aztec,Aztec
+B,Biblical (annotation)
+Baby,Babylonian
+Bal,Balti
+Ban,Bantu
+Bas,Basque
+Bav,Bavarian
+Ben,Bengali
+Ber,Berrichon
+Bret,Breton
+Britan,Brythonic
+Bulg,Bulgarian
+Bur,Burmese
+ByG,Byzantine Greek
+Cad,Caddoan
+Cambo,Cambodian (Khmer)
+Canto,Cantonese
+Carib,Carib
+Cast,Castilian
+Cat,Catalan
+Ce,Czech
+Cel,Celtic
+Ch,Chinese
+Chaman,Chamorro
+Chib,Chibchan
+Chinook,Chinook
+Choc,Choctaw
+ChuL,Church Latin
+ChuSla,Church Slavonic
+Chue,Cherokee
+Cockney,Cockney
+Cop,Coptic
+Corn,Cornish
+Corsican,Corsican
+Cree,Cree
+Cro,Croatian
+CuSpan,Cuban Spanish
+DE,Delaware (Algonquian)
+Dako,Dakota
+Dan,Danish
+Daw,Delaware (Lenape)
+Dharruk,Dharruk
+DoG,Doric Greek
+Dra,Dravidian
+Duf,Duffus (Gaelic dialectal)
+Dut,Dutch
+E,English
+EG,Ecclesiastical Greek
+EL,Extinct Language
+Egy,Egyptian
+Esto,Estonian
+F,French
+FCan,French-Canadian
+Faer,Faroese
+Fin,Finnish
+Flem,Flemish
+Flor,Florentine
+Fran,Frankish
+G,Greek
+GE,Greenland Eskimo
+GaL,Gallo-Latin
+GaRo,Gallo-Roman
+GaT,Gujarati (Trade)
+Gab,Galibi (Carib)
+Gae,Gaelic
+Gas,Gascon
+Gate,Greek (Attic)
+Gau,Gaulish
+Ger,German
+Goth,Gothic
+Guar,Guarani
+Gujarati,Gujarati
+Gul,Gullah
+Guugu,Yimidhirr
+H,Hebrew
+HGer,Middle High German
+Hai,Haitian
+Hami,Hamitic
+Hat,Hittite
+Hau,Hausa
+Hawa,Hawaiian
+Hin,Hindi
+Hun,Hungarian
+I,Italian
+Ib,Iberian
+Icel,Icelandic
+Indic,Indic
+IndoIr,Indo-Iranian
+Inupiaq,Inupiaq
+Ionic,Ionic Greek
+Ir,Irish
+Ira,Iranian
+Jam,Jamaican Creole
+Jap,Japanese
+Jav,Javanese
+Ju,Judeo-Arabic
+Kansa,Kansa
+Kaz,Kazakh
+Kent,Kentish
+Kho,Khoisan
+Kiowa,Kiowa
+Kong,Kongo
+Kor,Korean
+Kut,Kutchin
+L,Latin
+LGer,Low German
+Late,Latvian
+LateBaby,Late Babylonian
+LateG,Late Greek
+LateL,Late Latin
+Lith,Lithuanian
+Lokele,Lokele
+Lush,Lushootseed
+MF,Middle French
+Mah,Marathi
+Mal,Malay
+Malaya,Malayalam
+Malayal,Malayalam
+Man,Mandarin
+Maori,Maori
+Massachuset,Massachuset
+Maya,Mayan
+MediG,Medieval Greek
+MediL,Medieval Latin
+Mer,Mercian
+MexSpan,Mexican Spanish
+Mic,Mi'kmaq
+Micro,Micmac (Algonquian)
+ModG,Modern Greek
+ModH,Modern Hebrew
+ModIr,Modern Irish
+ModL,Modern Latin
+Moh,Mohegan
+Mohawk,Mohawk
+Mongo,Mongolian
+Mun,Mongolian/Munsee (heterogeneous)
+Musko,Muskogean
+NEAl,Southern New England Algonquian
+Nah,Nahuatl (Aztecan)
+Nar,Narragansett
+Navajo,Navajo
+Nea,Neapolitan
+Nepa,Nepalese
+NewTest,New Testament Greek
+Noot,Nootka
+Nor,Norse
+Northumber,Northumbrian
+Norw,Norwegian
+Nub,Nubian
+OBret,Old Breton
+OCel,Old Celtic
+OCh,Old Church Slavonic
+ODan,Old Danish
+ODut,Old Dutch
+OE,Old English
+OEst,Old Estonian
+OF,Old French
+OFi,Old Frisian
+OFri,Old Frisian
+OG,Old Greek
+OGas,Old Gascon
+OHGer,Old High German
+OI,Old Italian
+OIr,Old Irish
+OL,Old Latin
+ONF,Old North French
+ONS,Old North Scandinavian
+ONor,Old Norse
+OPer,Old Persian
+OPo,Old Polish
+OPro,Old Provençal
+ORus,Old Russian
+OSach,Old Saxon
+OScan,Old Scandinavian
+OSer,Old Serbian
+OSpan,Old Spanish
+OSwe,Old Swedish
+Occitan,Occitan
+Ojib,Ojibwa
+Os,Oscan
+Osse,Ossetian
+PCE,Proto-Celtic
+PGer,Proto-Germanic
+PI,Proto-Italic
+PIE,Proto-Indo-European
+PWGer,Proto-West-Germanic
+Pa,Pali
+Pah,Pahlavi
+Pela,Pelasgian
+Per,Persian
+Pho,Phoenician
+Phry,Phrygian
+Piman,Piman (O'odham)
+Pin,Philippine (Malay)
+PoSla,Proto-Slavic
+Pol,Polish
+Por,Portuguese
+Pr,Prakrit
+Pro,Provençal
+Pu,Punic
+Pue,Pueblo
+Que,Quechua
+R,Roman (Latin)
+Ra,Rhaeto-Romance
+Ro,Romansch
+Roman,Roman Latin
+Romansch,Romansh
+Romany,Romani
+Rus,Russian
+SA,South African Dutch
+Saf,South African Dutch
+Sal,Salish
+San,Sanskrit
+Sas,Halkomelem
+Savoy,Savoyard
+Scan,Scandinavian
+Scot,Scottish
+Sem,Semitic
+Sen,Seneca
+SerCro,Serbo-Croatian
+Serb,Serbian
+Sho,Shoshone
+Sici,Sicilian
+Sinh,Sinhalese
+Sio,Siouan
+Sla,Slavonic
+Sloven,Slovenian
+Span,Spanish
+Sume,Sumerian
+Swah,Swahili
+Swe,Swedish
+Swis,Swiss German
+Sy,Syriac
+Tagalog,Tagalog
+Tah,Tahitian
+Taino,Taino
+Taj,Tajik
+Tam,Tamil
+TeL,Telugu
+Tewa,Tewa
+Thai,Thai
+Tib,Tibetan
+Tongan,Tongan
+Tu,Tuscan
+Tuare,Tuareg
+Tungus,Tungusic
+Tup,Tupi
+Tur,Turkish
+Tw,Twi
+Ugar,Ugaritic
+Ukraine,Ukrainian
+Umbi,Umbrian
+Unami,Unami (Delaware)
+Ur,Urdu
+VL,Vulgar Latin
+Ven,Venetian
+Vi,Vietnamese
+Virgini,Virginia Algonquian
+Vogul,Vogul (Mansi)
+WF,West Frisian
+WGer,West Germanic
+Wash,Washoe
+Wel,Welsh
+WiP,West Indian Pidgin
+Wo,West Indies Patois
+WoS,West Saxon
+Wol,Walloon
+Woo,Woodland Cree
+Yid,Yiddish
+Zul,Zulu
+preL,Pre-Latin

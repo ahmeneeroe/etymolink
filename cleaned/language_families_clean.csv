@@ -1,0 +1,312 @@
+Code,Language,Family
+A,Arabic,Semitic
+AF,Anglo-French,Latin
+AL,Anglo-Latin,Latin
+ASpan,American Spanish,Latin
+Aben,Abenaki,Native-American
+Adriatic,Adriatic (dialectal),Latin
+Adut,Afrikaans Dutch,Germanic
+Ae,Aeolic Greek,Greek
+Ael,Aleut (Aeolian),Eskimo-Aleut
+Aeolian,Aeolian Greek,Greek
+Afr,African,African-General
+Afrika,Afrikaans,Germanic
+AfroCuban,Afro-Cuban,African
+Ahapaskan,Athapaskan,Native-American
+Akkadian,Akkadian,Semitic
+Al,Alemannic,Germanic
+Ala,Aleut,Eskimo-Aleut
+Algo,Algonquian,Native-American
+Alutiq,Alutiq,Eskimo-Aleut
+Amboyna,Ambonese,Austronesian
+Amharic,Amharic,Semitic
+An,Anglo-Indian,Germanic
+Anglo,Anglo-Indian,Germanic
+Apaca,Apache,Native-American
+Ar,Greek (archaic),Greek
+Ara,Araucanian,Native-American
+Arab,Arabic,Semitic
+Aram,Aramaic,Semitic
+Araw,Arawakan,Native-American
+Argentine,Argentine Spanish,Latin
+Ariz,Arizona Apache,Native-American
+Armenia,Armenian,Armenian
+Ash,Ashkenazi Hebrew,Semitic
+Assain,Alsatian German,Germanic
+Assyrian,Assyrian,Semitic
+Attic,Attic Greek,Greek
+Au,Australian Aboriginal,Australian
+Austra,Austrasian,Germanic
+Avest,Avestan,Iranian
+Aymar,Aymara,Native-American
+Aztec,Aztec,Native-American
+B,Biblical (annotation),Semitic
+Baby,Babylonian,Semitic
+Bal,Balti,Sino-Tibetan
+Ban,Bantu,African
+Bas,Basque,Basque
+Bav,Bavarian,Germanic
+Ben,Bengali,Iranian
+Ber,Berrichon,Latin
+Bret,Breton,Celtic
+Britan,Brythonic,Celtic
+Bulg,Bulgarian,Slavic
+Bur,Burmese,Sino-Tibetan
+ByG,Byzantine Greek,Greek
+Cad,Caddoan,Native-American
+Cambo,Cambodian (Khmer),Austroasiatic
+Canto,Cantonese,Sino-Tibetan
+Carib,Carib,Native-American
+Cast,Castilian,Latin
+Cat,Catalan,Latin
+Ce,Czech,Slavic
+Cel,Celtic,Celtic
+Ch,Chinese,Sino-Tibetan
+Chaman,Chamorro,Austronesian
+Chib,Chibchan,Native-American
+Chinook,Chinook,Native-American
+Choc,Choctaw,Native-American
+ChuL,Church Latin,Latin
+ChuSla,Church Slavonic,Slavic
+Chue,Cherokee,Native-American
+Cockney,Cockney,Germanic
+Cop,Coptic,Semitic
+Corn,Cornish,Celtic
+Corsican,Corsican,Latin
+Cree,Cree,Native-American
+Cro,Croatian,Slavic
+CuSpan,Cuban Spanish,Latin
+DE,Delaware (Algonquian),Native-American
+Dako,Dakota,Native-American
+Dan,Danish,Germanic
+Daw,Delaware (Lenape),Native-American
+Dharruk,Dharruk,Australian
+DoG,Doric Greek,Greek
+Dra,Dravidian,Dravidian
+Duf,Duffus (Gaelic dialectal),Celtic
+Dut,Dutch,Germanic
+E,English,Germanic
+EG,Ecclesiastical Greek,Greek
+EL,Extinct Language,Unknown
+Egy,Egyptian,Semitic
+Esto,Estonian,Baltic
+F,French,Latin
+FCan,French-Canadian,Latin
+Faer,Faroese,Germanic
+Fin,Finnish,Uralic
+Flem,Flemish,Germanic
+Flor,Florentine,Latin
+Fran,Frankish,Germanic
+G,Greek,Greek
+GE,Greenland Eskimo,Eskimo-Aleut
+GaL,Gallo-Latin,Latin
+GaRo,Gallo-Roman,Latin
+GaT,Gujarati (Trade),Iranian
+Gab,Galibi (Carib),Native-American
+Gae,Gaelic,Celtic
+Gas,Gascon,Latin
+Gate,Greek (Attic),Greek
+Gau,Gaulish,Celtic
+Ger,German,Germanic
+Goth,Gothic,Germanic
+Guar,Guarani,Native-American
+Gujarati,Gujarati,Iranian
+Gul,Gullah,Creole
+Guugu,Yimidhirr,Australian
+H,Hebrew,Semitic
+HGer,Middle High German,Germanic
+Hai,Haitian,Native-American
+Hami,Hamitic,African
+Hat,Hittite,Anatolian
+Hau,Hausa,African
+Hawa,Hawaiian,Austronesian
+Hin,Hindi,Iranian
+Hun,Hungarian,Uralic
+I,Italian,Latin
+Ib,Iberian,Pre-Roman
+Icel,Icelandic,Germanic
+Indic,Indic,Iranian
+IndoIr,Indo-Iranian,Iranian
+Inupiaq,Inupiaq,Eskimo-Aleut
+Ionic,Ionic Greek,Greek
+Ir,Irish,Celtic
+Ira,Iranian,Iranian
+Jam,Jamaican Creole,Creole
+Jap,Japanese,Japonic
+Jav,Javanese,Austronesian
+Ju,Judeo-Arabic,Semitic
+Kansa,Kansa,Native-American
+Kaz,Kazakh,Turkic
+Kent,Kentish,Germanic
+Kho,Khoisan,African
+Kiowa,Kiowa,Native-American
+Kong,Kongo,African
+Kor,Korean,Koreanic
+Kut,Kutchin,Native-American
+L,Latin,Latin
+LGer,Low German,Germanic
+Late,Latvian,Baltic
+LateBaby,Late Babylonian,Semitic
+LateG,Late Greek,Greek
+LateL,Late Latin,Latin
+Lith,Lithuanian,Baltic
+Lokele,Lokele,African
+Lush,Lushootseed,Native-American
+MF,Middle French,Latin
+Mah,Marathi,Indo-Aryan
+Mal,Malay,Austronesian
+Malaya,Malayalam,Dravidian
+Malayal,Malayalam,Dravidian
+Man,Mandarin,Sino-Tibetan
+Maori,Maori,Austronesian
+Massachuset,Massachuset,Native-American
+Maya,Mayan,Native-American
+MediG,Medieval Greek,Greek
+MediL,Medieval Latin,Latin
+Mer,Mercian,Germanic
+MexSpan,Mexican Spanish,Latin
+Mic,Mi'kmaq,Native-American
+Micro,Micmac (Algonquian),Native-American
+ModG,Modern Greek,Greek
+ModH,Modern Hebrew,Semitic
+ModIr,Modern Irish,Celtic
+ModL,Modern Latin,Latin
+Moh,Mohegan,Native-American
+Mohawk,Mohawk,Native-American
+Mongo,Mongolian,Mongolic
+Mun,Mongolian/Munsee (heterogeneous),Mixed
+Musko,Muskogean,Native-American
+NEAl,Southern New England Algonquian,Native-American
+Nah,Nahuatl (Aztecan),Native-American
+Nar,Narragansett,Native-American
+Navajo,Navajo,Native-American
+Nea,Neapolitan,Latin
+Nepa,Nepalese,Iranian
+NewTest,New Testament Greek,Greek
+Noot,Nootka,Native-American
+Nor,Norse,Germanic
+Northumber,Northumbrian,Germanic
+Norw,Norwegian,Germanic
+Nub,Nubian,African
+OBret,Old Breton,Celtic
+OCel,Old Celtic,Celtic
+OCh,Old Church Slavonic,Slavic
+ODan,Old Danish,Germanic
+ODut,Old Dutch,Germanic
+OE,Old English,Germanic
+OEst,Old Estonian,Baltic
+OF,Old French,Latin
+OFi,Old Frisian,Germanic
+OFri,Old Frisian,Germanic
+OG,Old Greek,Greek
+OGas,Old Gascon,Latin
+OHGer,Old High German,Germanic
+OI,Old Italian,Latin
+OIr,Old Irish,Celtic
+OL,Old Latin,Latin
+ONF,Old North French,Latin
+ONS,Old North Scandinavian,Germanic
+ONor,Old Norse,Germanic
+OPer,Old Persian,Iranian
+OPo,Old Polish,Slavic
+OPro,Old Provençal,Latin
+ORus,Old Russian,Slavic
+OSach,Old Saxon,Germanic
+OScan,Old Scandinavian,Germanic
+OSer,Old Serbian,Slavic
+OSpan,Old Spanish,Latin
+OSwe,Old Swedish,Germanic
+Occitan,Occitan,Latin
+Ojib,Ojibwa,Native-American
+Os,Oscan,Latin
+Osse,Ossetian,Iranian
+PCE,Proto-Celtic,Celtic
+PGer,Proto-Germanic,Germanic
+PI,Proto-Italic,Latin
+PIE,Proto-Indo-European,Proto-Indo-European
+PWGer,Proto-West-Germanic,Germanic
+Pa,Pali,Iranian
+Pah,Pahlavi,Iranian
+Pela,Pelasgian,Pre-Greek
+Per,Persian,Iranian
+Pho,Phoenician,Semitic
+Phry,Phrygian,Anatolian
+Piman,Piman (O'odham),Native-American
+Pin,Philippine (Malay),Austronesian
+PoSla,Proto-Slavic,Slavic
+Pol,Polish,Slavic
+Por,Portuguese,Latin
+Pr,Prakrit,Iranian
+Pro,Provençal,Latin
+Pu,Punic,Semitic
+Pue,Pueblo,Native-American
+Que,Quechua,Native-American
+R,Roman (Latin),Latin
+Ra,Rhaeto-Romance,Latin
+Ro,Romansch,Latin
+Roman,Roman Latin,Latin
+Romansch,Romansh,Latin
+Romany,Romani,Iranian
+Rus,Russian,Slavic
+SA,South African Dutch,Germanic
+Saf,South African Dutch,Germanic
+Sal,Salish,Native-American
+San,Sanskrit,Iranian
+Sas,Halkomelem,Native-American
+Savoy,Savoyard,Latin
+Scan,Scandinavian,Germanic
+Scot,Scottish,Celtic
+Sem,Semitic,Semitic
+Sen,Seneca,Native-American
+SerCro,Serbo-Croatian,Slavic
+Serb,Serbian,Slavic
+Sho,Shoshone,Native-American
+Sici,Sicilian,Latin
+Sinh,Sinhalese,Iranian
+Sio,Siouan,Native-American
+Sla,Slavonic,Slavic
+Sloven,Slovenian,Slavic
+Span,Spanish,Latin
+Sume,Sumerian,Sumerian
+Swah,Swahili,African
+Swe,Swedish,Germanic
+Swis,Swiss German,Germanic
+Sy,Syriac,Semitic
+Tagalog,Tagalog,Austronesian
+Tah,Tahitian,Austronesian
+Taino,Taino,Native-American
+Taj,Tajik,Iranian
+Tam,Tamil,Dravidian
+TeL,Telugu,Dravidian
+Tewa,Tewa,Native-American
+Thai,Thai,Tai-Kadai
+Tib,Tibetan,Sino-Tibetan
+Tongan,Tongan,Austronesian
+Tu,Tuscan,Latin
+Tuare,Tuareg,African
+Tungus,Tungusic,Tungusic
+Tup,Tupi,Native-American
+Tur,Turkish,Turkic
+Tw,Twi,African
+Ugar,Ugaritic,Semitic
+Ukraine,Ukrainian,Slavic
+Umbi,Umbrian,Latin
+Unami,Unami (Delaware),Native-American
+Ur,Urdu,Iranian
+VL,Vulgar Latin,Latin
+Ven,Venetian,Latin
+Vi,Vietnamese,Austroasiatic
+Virgini,Virginia Algonquian,Native-American
+Vogul,Vogul (Mansi),Uralic
+WF,West Frisian,Germanic
+WGer,West Germanic,Germanic
+Wash,Washoe,Native-American
+Wel,Welsh,Celtic
+WiP,West Indian Pidgin,Creole
+Wo,West Indies Patois,Latin
+WoS,West Saxon,Germanic
+Wol,Walloon,Latin
+Woo,Woodland Cree,Native-American
+Yid,Yiddish,Germanic
+Zul,Zulu,African
+preL,Pre-Latin,Latin
